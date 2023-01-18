@@ -12,5 +12,5 @@ print('Array with confined random integer: ', random_integer_array)
 arr1 = np.zeros((3,5))
 print('Array of size 3x5: ', arr1)
 
-arr1 = np.zeros((5,3))
+arr1 = np.ones((5,3))
 print('Array of size 5x3: ', arr1)
